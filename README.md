@@ -32,7 +32,7 @@ Bu proje, ilaç şirketleri için tasarlanmış bir Windows Presentation Foundat
 ## Ekran Görüntüleri
 | Giriş Ekranı | Doktor Detayları - Deniz | Doktor Detayları - Fatma |
 |---|---|---|
-| ![Giriş Ekranı](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-13%20153007.png) | ![Deniz Doktor Detayları](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-13%20153048.png) | ![Fatma Doktor Detayları](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-13%20153137.png) |
+| ![Giriş Ekranı](https://github.com/Sena-Yanik/ilac_satis_takip_ve_analizi/blob/main/ilac_takip/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-13%20153007.png) | ![Deniz Doktor Detayları](https://github.com/Sena-Yanik/ilac_satis_takip_ve_analizi/blob/main/ilac_takip/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-13%20153048.png) | ![Fatma Doktor Detayları](https://github.com/Sena-Yanik/ilac_satis_takip_ve_analizi/blob/main/ilac_takip/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-13%20153137.png) |
 
 ## Kurulum
 
