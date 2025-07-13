@@ -1,0 +1,37 @@
+﻿<Window x:Class="ilac_takip.main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ilac_takip"
+        mc:Ignorable="d"
+        Title="Doktorlar Menü" Height="600" Width="1000">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Margin="10">
+            <TextBlock Text="DOKTORLAR" FontSize="24" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <Button x:Name="dr1" Click="BtnAnasayfa_Click" Margin="0,5">
+                <TextBlock x:Name="isim1_Kopyala" Text="DOKTOR 1" FontSize="16"/>
+            </Button>
+            <Button x:Name="dr2" Click="BtnAnasayfa_Click" Margin="0,5">
+                <TextBlock x:Name="isim2" Text="DOKTOR 2" FontSize="16"/>
+            </Button>
+            <Button x:Name="dr3" Click="BtnAnasayfa_Click" Margin="0,5">
+                <TextBlock x:Name="isim3" Text="DOKTOR 3" FontSize="16"/>
+            </Button>
+            <Button x:Name="dr4" Click="BtnAnasayfa_Click" Margin="0,5">
+                <TextBlock x:Name="isim4" Text="DOKTOR 4" FontSize="16"/>
+            </Button>
+            <Button x:Name="dr5" Click="BtnAnasayfa_Click" Margin="0,5">
+                <TextBlock x:Name="isim5" Text="DOKTOR 5" FontSize="16"/>
+            </Button>
+        </StackPanel>
+
+        <Frame x:Name="mainFrame" Grid.Column="1" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>
